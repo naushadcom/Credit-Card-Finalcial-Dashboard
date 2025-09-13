@@ -13,7 +13,6 @@ This project aims to **develop a comprehensive credit card weekly dashboard** th
 
 This dashboard will be a crucial tool for stakeholders looking to optimize credit card operations and improve overall business performance.
 
-
 <h2>Credit Card Transaction Report:</h2>
 <img src="https://github.com/naushadcom/Credit-Card-Finalcial-Dashboard/blob/main/screenshot/Credit_card_transaction_report.png">
 
